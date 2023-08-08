@@ -1,0 +1,24 @@
+{
+  "name": "arsana_airtable_integration_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Furkan9623/Arsana_Airtable_Integration_Task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Furkan9623/Arsana_Airtable_Integration_Task/issues"
+  },
+  "homepage": "https://github.com/Furkan9623/Arsana_Airtable_Integration_Task#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  }
+}
